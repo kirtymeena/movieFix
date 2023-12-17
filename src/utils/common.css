@@ -1,0 +1,16 @@
+.container {
+  padding-inline: 1.5rem;
+  padding-block: 1rem;
+}
+
+.rose-700 {
+  color: #e11d48;
+}
+
+.ft-white {
+  color: #d4d4d4;
+}
+
+.error{
+  color:#dc2626
+}

@@ -1,0 +1,17 @@
+.btn {
+  padding-inline: 1.5rem;
+  padding-block: 0.3rem;
+  background-color: #4e4e4f;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: 0.2s background ease-in-out;
+}
+
+.btn:active{
+  background-color: #e11d48;
+}
+
+.btn__active {
+  background-color: #e11d48;
+}

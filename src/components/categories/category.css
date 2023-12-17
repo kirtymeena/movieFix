@@ -1,0 +1,13 @@
+.category__container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.category__wrapper {
+  display: inline-flex;
+  gap: 1rem;
+  overflow-x: scroll;
+  width: 100vw;
+  padding-block: 1rem;
+}

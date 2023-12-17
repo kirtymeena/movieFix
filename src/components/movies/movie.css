@@ -1,0 +1,25 @@
+.movie__container{
+    padding-top:12rem;
+    padding-bottom:2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.heading{
+    padding-block:1.5rem;
+}
+
+.card__outter{
+    display: flex;
+    flex-wrap: wrap;
+    gap:2rem;
+    justify-content:center;
+    padding-block:2rem;
+}
+
+@media (min-width:831px) {
+    .card__outter{
+        gap:9em;
+        justify-content:flex-start
+    }
+}
