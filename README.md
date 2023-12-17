@@ -16,7 +16,7 @@ Below are the requirements that were covered in the project
 ## Requirements Implemented
 ### Layout and UI
 <ul>
-  <li>Implemented reusable UI using reactJs and CSS </li>
+  <li>Implemented reusable and responsive UI using reactJs and CSS </li>
   <li>Displayed a list of movies sorted in descending order of popularity.</li>
   <li>Displayed the movie title, image, genre, and a short description(visible only when hovered on the card) related
 to the movie in each information card.</li>
