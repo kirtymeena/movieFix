@@ -2,6 +2,9 @@
 
 Movie List App - movie information app that displays a list of movies from The Movie Database (TMDb) API.
 
+![Screen Shot 2023-12-17 at 13 46 57](https://github.com/kirtymeena/movieFix/assets/40634061/435c2e40-9ac9-42ef-a359-7ac7c229450b)
+
+
 # Setup Steps
 <p>Below are the steps to run the application in local env:</p>
 <ul>
